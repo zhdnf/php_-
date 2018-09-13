@@ -53,6 +53,7 @@ if(!in_array($action, $actions)){
 
 define("RES_PATH", $_W['siteroot']);
 $smarty = template();
+
 $smarty->assign("respath", RES_PATH);
 session_start();
 $user_group = $_SESSION['admin_group'];
