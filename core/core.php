@@ -14,6 +14,8 @@ require CORE_PATH . '/library/loader.class.php';
 load()->func('global');
 load()->func('pdo');
 load()->func('template');
+load()->func('image');
+
 
 define('CLIENT_IP', getip());
 $_W['config'] = $config;

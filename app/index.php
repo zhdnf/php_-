@@ -49,6 +49,7 @@ if(!in_array($action, $actions)){
 	$action = "index";
 }
 
+
 define("RES_PATH", $_W['siteroot']);
 $smarty = template();
 
