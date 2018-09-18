@@ -1,7 +1,7 @@
 # php_新闻管理页面
 
-编程环境：phpstudy
-apache+mysql+php
+编程环境：phpstudy\n
+apache+mysql+php\n
 
 （config）
 模板引擎：smarty 
