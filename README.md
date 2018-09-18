@@ -25,7 +25,7 @@ url设计：www.xxx.com？m=&c=&a=   //m=model c=controller a=do（function）
 
     功能：发表留言，展示新闻内容，登陆，注册
 
-    前端：bootrap3
+    前端：bootstrap3
 
     进展：简单实现了页面显示，验证码验证
     
