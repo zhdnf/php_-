@@ -7,6 +7,7 @@ apache+mysql+php
 模板引擎：smarty 
 加载方式：函数+类的形式 
 mvc编程模式 
+url设计：www.xxx.com？m=&a=&c=
 
 安全：防止密码爆破，sql注入，xss，csrf
 
