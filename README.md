@@ -13,7 +13,7 @@ mvc编程模式
 
 安全：防止密码爆破，sql注入，xss，csrf
 
-url设计：www.xxx.com？m=&a=&c=
+url设计：www.xxx.com？m=&c=&a=   //m=model c=controller a=do（function）
 
 后台：（web）
 
