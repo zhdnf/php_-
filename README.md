@@ -1,17 +1,15 @@
 # php_新闻管理页面
 
-编程环境：phpstudy
+编程环境：phpstudy:
 apache+mysql+php
 
-配置：（config）
+配置：（core）
 
     模板引擎：smarty 
 
     加载方式：函数+类的形式 
 
     mvc编程模式 
-
-安全：防止密码爆破，sql注入，xss，csrf
 
 url设计：www.xxx.com？m=&c=&a=   //m=model c=controller a=do（function）
 
@@ -30,3 +28,7 @@ url设计：www.xxx.com？m=&c=&a=   //m=model c=controller a=do（function）
     前端：bootrap3
 
     进展：简单实现了页面显示，验证码验证
+    
+安全：防止密码爆破，sql注入，xss，csrf
+    
+   
